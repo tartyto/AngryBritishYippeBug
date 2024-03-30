@@ -1,0 +1,11 @@
+{
+    "name": "yippe_british_bug",
+    "version_number": "1.0.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/tartyto/yippe_british_bug/",
+    "description": "A mod for Lethal Company that changes the Hoarding bug chitter SFX to the Yippe and the aggro sound to an angry british man.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-1.2.3",
+		"no00ob-LCSoundTool-1.2.2"
+    ]
+}
